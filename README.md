@@ -39,13 +39,13 @@ To get started with this project, follow these steps:
 ### Folder Structure
 The project structure is organized as follows:
 
-- public: for keeping pohotos
-- src: Contains the source code for the project.
--     Components: Reusable React components used throughout the application.
--     Context: Contains context-related files used for state management across components.
--     Data: Sample data used in the application
--     Pages: Top-level components representing different pages/routes of the application.
--     Utils: Utility functions or helper modules used across the application.
--     Hooks: for keeping custom made hooks
+-     public: for keeping pohotos
+-     src: Contains the source code for the project.
+-      Components: Reusable React components used throughout the application.
+-      Context: Contains context-related files used for state management across components.
+-      Data: Sample data used in the application
+-      Pages: Top-level components representing different pages/routes of the application.
+-      Utils: Utility functions or helper modules used across the application.
+-      Hooks: for keeping custom made hooks
 
 Happy shopping! 🛒🌟
