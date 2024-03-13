@@ -25,27 +25,27 @@ Welcome to Easy Rug Shop, a simple e-commerce project for showcasing and purchas
 To get started with this project, follow these steps:
 
 1. Clone the repository:
-+ git clone https://github.com/your-username/easy-rug-shop.git
++     git clone https://github.com/your-username/easy-rug-shop.git
 
 2. Navigate to the project directory:
-+ easy-rug-shop
++     cd easy-rug-shop
 
 3. Install dependencies:
-+ npm install
++     npm install
 
 4. Start the development server:
-+ npm run dev
++     npm run dev
 
 ### Folder Structure
-The project structure is organized as follows:
 
--     public: for keeping pohotos
--     src: Contains the source code for the project.
--      Components: Reusable React components used throughout the application.
--      Context: Contains context-related files used for state management across components.
--      Data: Sample data used in the application
--      Pages: Top-level components representing different pages/routes of the application.
--      Utils: Utility functions or helper modules used across the application.
--      Hooks: for keeping custom made hooks
+#### The project structure is organized as follows:
+- public: for keeping pohotos
+- src: Contains the source code for the project.
+ - Components: Reusable React components used throughout the application.
+ - Context: Contains context-related files used for state management across components.
+ - Data: Sample data used in the application
+ - Pages: Top-level components representing different pages/routes of the application.
+ - Utils: Utility functions or helper modules used across the application.
+ - Hooks: for keeping custom made hooks
 
 Happy shopping! 🛒🌟
